@@ -1,6 +1,7 @@
 @font-face {
     font-family: Norse;
     src: url(./fonts/NorseBold-2Kge.otf);
+    font-display: swap;
 }
 body{
     background-color: bisque;
